@@ -1,6 +1,6 @@
 # 🎮 PlayerStatus
 
-> A lightweight **PocketMine-MP** plugin that displays detailed player information — such as device, control mode, and ping — both via the `/player` command and through **ScoreHud** scoreboard tags.
+> A lightweight **PocketMine-MP** plugin that displays detailed player information — such as device, control mode, and ping — both via the `/player` command and through **ScoreHud** scoreboard tags
 
 <p align="center">
   <img src="https://img.shields.io/badge/PocketMine--MP-5.0.0+-blue?style=for-the-badge" alt="PocketMine-MP">
